@@ -21,7 +21,7 @@ function fibonacci_series(n)
 								 //不需要再将newarr[i]，push到newarr数组中						                                                需要再push到newarr数组中。若push，则会多输出一个数
 		}	
 	}
-	(newarr);
+return newarr;
 }
 
 sum(10);
